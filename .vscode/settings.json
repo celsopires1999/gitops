@@ -18,5 +18,13 @@
     "titleBar.inactiveBackground": "#e184a999",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.remoteColor": "#e184a9"
+  "peacock.remoteColor": "#e184a9",
+  "cSpell.words": [
+    "celsons",
+    "celsopires",
+    "gitopsfc",
+    "goserver",
+    "Kustomization",
+    "kustomize"
+  ]
 }
