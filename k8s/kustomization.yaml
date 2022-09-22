@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: celsopires/gitopsfc
-  newTag: 9b14f60d879a269dc216ae08bbc4cc45418eb672
+  newTag: 43dd8a0702cc022e8b0f3ede615c6585b5d7cb1a
